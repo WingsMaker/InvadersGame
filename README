@@ -1,0 +1,18 @@
+Just a game Space Invaders game for old timer but in python jupyter notebook
+
+───▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄───
+ ───█▒▒░░░░░░░░░▒▒█───
+ ────█░░█░░░░░█░░█────
+ ─▄▄──█░░░▀█▀░░░█──▄▄─
+ █░░█─▀▄░░░░░░░▄▀─█░░█
+ █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
+ █░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█
+ █░░║║║╠─║─║─║║║║║╠─░░█
+ █░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█
+ █░░     K H        ░░█
+ █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+ 
+ Remember to 'PIP INSTALL PYGAME' before the run
+ Click "Run All Cells" to start the game.
+ 
+ 
